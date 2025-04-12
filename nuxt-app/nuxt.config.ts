@@ -12,8 +12,8 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/scripts',
     '@nuxt/test-utils',
-    '@nuxt/ui',
-    '@nuxt/content'
+    '@nuxt/ui'
+    // '@nuxt/content' removed to fix generate errors
   ],
 
   css: ['~/assets/css/main.css'],
