@@ -5,15 +5,15 @@
         class="w-full md:px-16 px-10 md:pt-16 pt-10 pb-10 bg-gray-900 rounded-2xl flex-col justify-end items-center lg:gap-28 md:gap-16 gap-10 inline-flex">
         <div class="flex-col justify-end items-center lg:gap-16 gap-10 flex">
           <div class="text-center">
-            <h1 class="text-4xl font-black tracking-tight mb-2">
+            <h1 class="text-5xl font-black tracking-tight mb-2">
               <span
                 class="inline-block bg-gradient-to-r from-emerald-400 via-cyan-400 to-blue-500 bg-clip-text text-transparent">
                 I'm Thompson Bui
               </span>
             </h1>
-            <div class="flex items-center justify-center space-x-4 text-emerald-300">
+            <div class="flex items-center justify-center space-x-4 text-emerald-200">
               <div class="h-px w-16 bg-emerald-400/30" />
-              <p class="text-lg font-medium"> Fullstack Developer & Software Engineer
+              <p class="text-md font-medium"> Fullstack Developer & Software Engineer
               </p>
               <div class="h-px w-16 bg-emerald-400/30" />
             </div>
